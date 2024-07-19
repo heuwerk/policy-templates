@@ -93,7 +93,7 @@
         "Status": "locked",
         "Type": "number"
       },
-      "ddom.private-attribution.submission.enabled": {
+      "dom.private-attribution.submission.enabled": {
         "Value": false,
         "Status": "locked"
       }
