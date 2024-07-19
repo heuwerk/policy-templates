@@ -87,6 +87,17 @@
     },
     "PostQuantumKeyAgreementEnabled": true,
     "PrintingEnabled": true,
+    "Preferences": {
+      "dom.origin-trials.private-attribution.state": {
+        "Value": 0,
+        "Status": "locked",
+        "Type": "number"
+      },
+      "ddom.private-attribution.submission.enabled": {
+        "Value": false,
+        "Status": "locked"
+      }
+    },
     "TranslateEnabled": true,
     "UserMessaging": {
       "ExtensionRecommendations": false,
